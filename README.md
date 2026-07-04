@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29660501/README.md)
 # 🎙️ AI & Voice Acting — An Ethics Study
 
 A presentation examining the **ethics of AI voice cloning and synthetic voice acting**: what the technology can do, where it helps, where it harms, and why the law hasn't caught up. A study in responsible and consensual use of generative AI.
